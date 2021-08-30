@@ -3,10 +3,10 @@
     "displayName": "Short Giraffe",
     "description": "A dark theme with carefully picked colors",
     "version": "0.0.1",
-    "publisher": "Mehdi HoseiniPajooh <mhhhhp@proton.me>",
+    "publisher": "MehdiHoseiniPajooh",
     "license": "WTFPL",
     "preview": true,
-    "logo": "./logo-simple.png",
+    "icon": "logo-simple.png",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -21,5 +21,9 @@
                 "path": "./themes/main.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mehdi-Hp/Short-Giraffe"
     }
 }
