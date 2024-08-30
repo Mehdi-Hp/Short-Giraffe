@@ -1,0 +1,7 @@
+id = "short-giraffe-theme"
+name = "Short Giraffe Theme"
+version = "2.0.0"
+schema_version = 1
+authors = ["Mehdi Hoseini <mhhhhp@proton.me>"]
+description = "A dark theme with carefully picked colors"
+repository = "https://github.com/Mehdi-Hp/Short-Giraffe"
