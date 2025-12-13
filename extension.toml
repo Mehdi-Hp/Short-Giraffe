@@ -5,3 +5,15 @@ schema_version = 1
 authors = ["Mehdi Hoseini <mhhhhp@proton.me>"]
 description = "A dark theme with carefully picked colors"
 repository = "https://github.com/Mehdi-Hp/Short-Giraffe"
+
+[[themes]]
+name = "Short Giraffe"
+path = "themes/zed.json"
+
+[[themes]]
+name = "Short Giraffe Darker"
+path = "themes/zed-darker.json"
+
+[[themes]]
+name = "Short Giraffe High Contrast"
+path = "themes/zed-high-contrast.json"
